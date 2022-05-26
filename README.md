@@ -8,3 +8,4 @@ This is just a basic implementation of Japanese in Tacotron 2, so if you've used
 - Phonetic system from TALQu (https://booth.pm/ja/items/2755336)
 - Pretrained model by Haruqa (https://github.com/Haruqa/tacotron2/releases)
 - Some code formatting from the Uberduck Tacotron 2 training notebook (https://colab.research.google.com/drive/1WTilMdm9Vf7KE79gzkeeTBigAN6iv3Bg?usp=sharing)
+- Tacotron 2 implementation by NVIDIA (https://github.com/NVIDIA/tacotron2)
