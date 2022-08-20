@@ -1,5 +1,5 @@
 # Japanese Tacotron 2 notebook
-Training notebook for Japanese TTS model with Tacotron 2
+Training notebook for Japanese TTS model with Tacotron 2. This repo is archived in favor of https://github.com/Mildemelwe/Non-English-Tacotron-2-Training-Notebook
 # Usage
 This is just a basic implementation of Japanese in Tacotron 2, so if you've used Tacotron 2 before you should have no trouble. For a detailed, beginner-oriented guide, check usage.pdf.
 - Transcription should use TALQu phonetics to comply with the pretrained model in use. You may use my g2p to convert from Japanese text: https://colab.research.google.com/drive/1RQGSlx2LWl0gfokup9r-nVTeI-oe-SGs?usp=sharing
